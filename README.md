@@ -11,7 +11,7 @@ Google API OAUTH with JWT test
 
 # Preparation ###
 
-1. [Google console to create a fusiontables `api key`](https://console.developers.google.com)
+1. [Google console to create a fusiontables and get `api key`](https://console.developers.google.com)
 2. Create a Service account keys, `keep Service account id` and download a credenctial `json`.
 3. Create a fusiontables in Google Drive and copy the `table-id` and share the permission to `Service account id`(a mail id and make him/her editable).
 
